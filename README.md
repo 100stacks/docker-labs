@@ -1,1 +1,1 @@
-# Inspiration from Raju's Pratical Docker Workshop
+# Inspiration from Raju's Practical Docker Workshop
